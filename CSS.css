@@ -1,19 +1,26 @@
-body {
+body { 
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4; /* Light grey background */
-    color: #333; /* Dark text */
+    background-color: whitesmoke; 
+    color: darkgreen; 
     line-height: 1.6;
     margin: 0;
     padding: 20px;
+    background-image: url('Users\Saved Pictures\Me_Portfolio.jfif'); 
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed; 
 }
 
 header {
-    background-color: #4a90e2; /* Header background */
-    color: white; /* Header text color */
+    background-color: lightblue; /* Header background */
+    color: darkgreen; /* Header text color */
     text-align: center;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+#about {
+    margin-top: 20px; 
 }
 
 h1 {
@@ -22,38 +29,38 @@ h1 {
 }
 
 h2 {
-    color: #d35400; /* Subheading color */
+    color: darkgreen; 
     margin-top: 20px;
 }
 
 section {
     margin-bottom: 20px;
     padding: 20px;
-    background: white;
+    background: lightblue;
     border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
-    border-left: 5px solid #27ae60; /* Left border color */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+    border-left: 5px solid #27ae60; 
 }
 
 p, ul {
-    color: #555; /* Darker text for readability */
+    color: #555; 
 }
 
 a {
-    color: #2980b9; /* Link color */
-    text-decoration: none; /* No underline */
-    transition: color 0.3s ease; /* Smooth transition */
+    color: blueviolet; 
+    text-decoration: none; 
+    transition: color 0.3s ease; 
 }
 
 a:hover {
-    color: #c0392b; /* Change link color on hover */
-    text-decoration: underline; /* Underline on hover */
+    color: #c0392b; 
+    text-decoration: underline; 
 }
 
 footer {
     text-align: center;
     margin-top: 30px;
-    color: #777; /* Footer text color */
+    color: #777; 
 }
 
 /* Responsive Design */
