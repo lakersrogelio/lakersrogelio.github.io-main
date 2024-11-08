@@ -20,6 +20,6 @@ I’d love to connect! You can reach me via:
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/rogelio-reyes-86ab19234/)
 
-GitHub: [GitHub](https://github.com/lakersrogelio/lakersrogelio.github.io)
+GitHub: [GitHub](https://lakersrogelio.github.io/lakersrogelio.github.io-main/)
 
 Email: reyesro_23@yahoo.com
